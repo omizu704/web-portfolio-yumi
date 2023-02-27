@@ -47,10 +47,10 @@ a:hover {
   color: #fefefe;
 }
 .text-1 {
-  color: #e8aaa3;
+  color: #6050ff;
 }
 .text-2 {
-  color: #aeac78;
+  color: #101841;
 }
 .text-3 {
   color: #f3deb9;
@@ -59,10 +59,10 @@ a:hover {
   background-color: #e8aaa3;
 }
 .bg-2 {
-  background-color: #aeac78;
+  background-color: #6050ff;
 }
 .bg-3 {
-  background-color: #f3deb9;
+  background-color: #60ceff;
 }
 /* ===== COMMON PARTS END ===== */
 
@@ -113,7 +113,7 @@ a:hover {
   box-shadow: 0px 0px 20px -7px rgba(0, 0, 0, 0.56);
   box-sizing: border-box;
   position: relative;
-  background-color: red;
+  background-color: white;
 }
 @media screen and (min-width: 1001px) {
   .card-cover {
@@ -240,7 +240,7 @@ a:hover {
   }
 }
 .card-tile {
-  border: 1px solid #cccccc;
+  border: 1px solid #6050ff;
   padding: 16px;
   display: grid;
   grid-template-columns: 1fr 2fr;
@@ -283,12 +283,12 @@ a:hover {
 .work-image img {
   width: 100%;
   box-shadow: 5px 5px 0 -2px #a57575;
-  border: 2px solid #e8aaa3;
+  border: 2px solid #6050ff;
 }
 .work-image video {
   width: 100%;
   box-shadow: 5px 5px 0 -2px #a57575;
-  border: 2px solid #e8aaa3;
+  border: 2px solid #6050ff;
 }
 /* ===== CARD | MY WORK END ===== */
 
@@ -324,7 +324,7 @@ a:hover {
     translateY(calc(50% + 2px));
   font-size: 12px;
   font-weight: 500;
-  color: #aeac78;
+  color: blue;
   width: 40px;
   position: absolute;
   text-align: center;
@@ -332,7 +332,7 @@ a:hover {
 .app-bar button {
   height: calc(40px - 6px);
   padding: 0 12px;
-  background-color: #aeac78;
+  background-color: #6050ff;
   color: #ffffff;
   font-weight: 500;
   border-radius: calc((40px - 6px) / 2);
